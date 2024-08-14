@@ -20,6 +20,7 @@ Here are some ideas to get you started:
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=E34F26)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=white)&nbsp;
-![JetPack Compose](https://img.shields.io/badge/jetpackcompose-000000?style=flat&logo=jetpackcompose&logoColor=white)&nbsp;
+![JetPack Compose](https://img.shields.io/badge/JetpackCompose-000000?style=flat&logo=jetpackcompose&logoColor=white)&nbsp;
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swiftui&logoColor=white)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
 <br/> 
