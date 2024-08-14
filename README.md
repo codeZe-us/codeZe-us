@@ -21,6 +21,6 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=E34F26)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=white)&nbsp;
 ![JetPack Compose](https://img.shields.io/badge/JetpackCompose-000000?style=flat&logo=jetpackcompose&logoColor=white)&nbsp;
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swiftui&logoColor=white)&nbsp;
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
 <br/> 
