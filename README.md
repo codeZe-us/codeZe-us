@@ -16,10 +16,10 @@ Here are some ideas to get you started:
 -->
 
  ### Stacks 💀
-![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart&logoColor=29B6F6)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-05122A?style=flat&logo=flutter&logoColor=02569B)&nbsp;
 ![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift&logoColor=E34F26)&nbsp;
-![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin&logoColor=white)&nbsp;
+![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin)&nbsp;
 ![JetPack Compose](https://img.shields.io/badge/JetpackCompose-000000?style=flat&logo=jetpackcompose&logoColor=green)&nbsp;
 ![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift&logoColor=white)
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase&logoColor=black)&nbsp;
