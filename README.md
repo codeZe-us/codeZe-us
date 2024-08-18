@@ -23,5 +23,5 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin)&nbsp;
 ![JetPack Compose](https://img.shields.io/badge/JetpackCompose-000000?style=flat&logo=jetpackcompose)&nbsp;
 ![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase)&nbsp;
-![Golang](https://img.shields.io/badge/golang-ffca28?style=flat&logo=golang)&nbsp;
+![Golang](https://img.shields.io/badge/golang-ffca28?style=flat&logo=go)
 <br/> 
