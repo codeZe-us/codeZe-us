@@ -14,15 +14,17 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+### Stacks 💀
 
- ### Stacks 💀
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)
-![Swift](https://img.shields.io/badge/-Swift-05122A?style=flat&logo=Swift)&nbsp;
-![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift)
+![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)&nbsp;
+![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift)&nbsp;
+![SwiftUI](https://img.shields.io/badge/SwiftUI-000000?style=flat&logo=swift)&nbsp;
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin)&nbsp;
-![JetPack Compose](https://img.shields.io/badge/JetpackCompose-000000?style=flat&logo=jetpackcompose)&nbsp;
-![Firebase](https://img.shields.io/badge/firebase-ffca28?style=flat&logo=firebase)&nbsp;
-![Cairo](https://img.shields.io/badge/cairo-000000?style=flat&logo=cairo)
-![TypeScript](https://img.shields.io/badge/typscript-000000?style=flat&logo=typscript)
-<br/> 
+![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=flat&logo=jetpackcompose)&nbsp;
+![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)&nbsp;
+![Cairo](https://img.shields.io/badge/Cairo-000000?style=flat&logo=cairo)&nbsp;
+![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
+
+<br/>
+
