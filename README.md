@@ -16,6 +16,7 @@ Here are some ideas to get you started:
 -->
 ### Stacks 💀
 
+#### Mobile
 ![Dart](https://img.shields.io/badge/Dart-05122A?style=flat&logo=dart)&nbsp;
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)&nbsp;
 ![Swift](https://img.shields.io/badge/Swift-05122A?style=flat&logo=swift)&nbsp;
@@ -23,8 +24,11 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=flat&logo=jetpackcompose)&nbsp;
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)&nbsp;
+
+#### Blockchain
 ![Cairo](https://img.shields.io/badge/Cairo-000000?style=flat&logo=cairo)&nbsp;
 ![TypeScript](https://img.shields.io/badge/TypeScript-000000?style=flat&logo=typescript)
 
 <br/>
+
 
