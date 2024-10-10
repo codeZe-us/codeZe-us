@@ -25,8 +25,6 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-000000?style=flat&logo=kotlin)&nbsp;
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack_Compose-000000?style=flat&logo=jetpackcompose)&nbsp;
 
-![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)&nbsp;
-
 ![Cairo](https://img.shields.io/badge/Cairo-orange?style=flat&logo=cairo)
 ![Starknet](https://img.shields.io/badge/Starknet-blue?style=flat&logo=starknet)&nbsp;
 
