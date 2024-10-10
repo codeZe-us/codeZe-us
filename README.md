@@ -27,7 +27,8 @@ Here are some ideas to get you started:
 
 ![Firebase](https://img.shields.io/badge/Firebase-ffca28?style=flat&logo=firebase)&nbsp;
 
-![Cairo](https://img.shields.io/badge/Cairo-000000?style=flat&logo=cairo)&nbsp;
+![Cairo](https://img.shields.io/badge/Cairo-orange?style=flat&logo=cairo)
+![Starknet](https://img.shields.io/badge/Starknet-blue?style=flat&logo=starknet)&nbsp;
 
 <br/>
 
