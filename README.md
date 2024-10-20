@@ -27,6 +27,7 @@ Here are some ideas to get you started:
 
 ![Cairo](https://img.shields.io/badge/Cairo-orange?style=flat&logo=cairo)
 ![Starknet](https://img.shields.io/badge/Starknet-blue?style=flat&logo=starknet)&nbsp;
+![Dojo](https://img.shields.io/badge/Dojo-red?style=flat&logo=dojo)&nbsp;
 
 <br/>
 
