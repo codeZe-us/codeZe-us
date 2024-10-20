@@ -29,6 +29,8 @@ Here are some ideas to get you started:
 ![Starknet](https://img.shields.io/badge/Starknet-blue?style=flat&logo=starknet)&nbsp;
 ![Dojo](https://img.shields.io/badge/Dojo-red?style=flat&logo=dojo)&nbsp;
 
+### Reach me via: codezeusemail@gmail.com
+
 <br/>
 
 
