@@ -14,16 +14,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Stacks 💀
+### Mobile Stack 
 
-![Dart](https://img.shields.io/badge/Dart-blue?style=flat&logo=dart)&nbsp;
-![Flutter](https://img.shields.io/badge/Flutter-02569B?style=flat&logo=flutter)&nbsp;
+![Dart](https://img.shields.io/badge/Dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white)       ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)        ![SwiftUI](https://img.shields.io/badge/SwiftUi-%2302569B.svg?style=for-the-badge&logo=swifuit&logoColor=white) 
 
-![Cairo](https://img.shields.io/badge/Cairo-orange?style=flat&logo=cairo)
-![Starknet](https://img.shields.io/badge/Starknet-blue?style=flat&logo=starknet)&nbsp;
-![Dojo](https://img.shields.io/badge/Dojo-red?style=flat&logo=dojo)&nbsp;
-
-### Reach me via: codezeusemail@gmail.com
+### Reach me via:
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewechi-godsfavour-08b5211ab/)        [![X](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](https://gmail.com/https://gmail.com/lewechigodsfavour@gmail.com) 
+  </div>
 
 <br/>
 
