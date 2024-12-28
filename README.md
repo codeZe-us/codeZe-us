@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)        ![SwiftUI](https://img.shields.io/badge/SwiftUi-%2302569B.svg?style=for-the-badge&logo=swifuit&logoColor=white) 
 
 ### Currently learning
-![Cairo](https://img.shields.io/badge/Cairo-%231572B6.svg?style=for-the-badge&logo=cairo&logoColor=white)
+![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
 ![Rust](https://img.shields.io/badge/Rust-%231572B6.svg?style=for-the-badge&logo=rust&logoColor=white)
 
 ### Reach me via:
