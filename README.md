@@ -20,8 +20,8 @@ Here are some ideas to get you started:
 ![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)        ![SwiftUI](https://img.shields.io/badge/SwiftUi-%2302569B.svg?style=for-the-badge&logo=swifuit&logoColor=white) 
 
 ### Currently learning
-![Python](https://img.shields.io/badge/Python-%231572B6.svg?style=for-the-badge&logo=python&logoColor=white)
-![Rust](https://img.shields.io/badge/Rust-%231572B6.svg?style=for-the-badge&logo=rust&logoColor=white)
+![Noir](https://img.shields.io/badge/Noir-%231572B6.svg?style=for-the-badge&logo=noir&logoColor=white)
+![Cairo](https://img.shields.io/badge/Cairo-%231572B6.svg?style=for-the-badge&logo=cairo&logoColor=white)
 
 ### Reach me via:
   [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewechi-godsfavour-08b5211ab/)        [![X](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](https://gmail.com/https://gmail.com/lewechigodsfavour@gmail.com) 
