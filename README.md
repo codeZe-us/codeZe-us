@@ -14,19 +14,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-### Mobile Stack 
 
-![Dart](https://img.shields.io/badge/Dart-%231572B6.svg?style=for-the-badge&logo=dart&logoColor=white)       ![Flutter](https://img.shields.io/badge/flutter-02569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
-![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)        ![SwiftUI](https://img.shields.io/badge/SwiftUi-%2302569B.svg?style=for-the-badge&logo=swifuit&logoColor=white) 
+### Mobile Stack 
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=for-the-badge&logo=dart&logoColor=white)
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=for-the-badge&logo=flutter&logoColor=white)
+
+![Swift](https://img.shields.io/badge/Swift-%23FA7343.svg?style=for-the-badge&logo=swift&logoColor=white)
+![SwiftUI](https://img.shields.io/badge/SwiftUI-%23000000.svg?style=for-the-badge&logo=swift&logoColor=white)
+
+![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
+![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
+
 
 ### Currently learning
-![Noir](https://img.shields.io/badge/Noir-%231572B6.svg?style=for-the-badge&logo=noir&logoColor=white)
-![Cairo](https://img.shields.io/badge/Cairo-%231572B6.svg?style=for-the-badge&logo=cairo&logoColor=white)
+![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
 
 ### Reach me via:
-  [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewechi-godsfavour-08b5211ab/)        [![X](https://img.shields.io/badge/Gmail-red.svg?logo=gmail&logoColor=white)](https://gmail.com/https://gmail.com/lewechigodsfavour@gmail.com) 
-  </div>
-
-<br/>
-
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewechi-godsfavour-08b5211ab/)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836.svg?style=for-the-badge&logo=gmail&logoColor=white)](mailto:lewechigodsfavour@gmail.com)
 
