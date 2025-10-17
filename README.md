@@ -25,9 +25,15 @@ Here are some ideas to get you started:
 ![Kotlin](https://img.shields.io/badge/Kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![Jetpack Compose](https://img.shields.io/badge/Jetpack%20Compose-%234285F4.svg?style=for-the-badge&logo=jetpackcompose&logoColor=white)
 
+### Blockchain Stack 
+![Soroban](https://img.shields.io/badge/Soroban-%234A90E2.svg?style=for-the-badge&logo=stellar&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-%23CE422B.svg?style=for-the-badge&logo=rust&logoColor=white)
+
+
 
 ### Currently learning
-![Go](https://img.shields.io/badge/Go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Soroban](https://img.shields.io/badge/Soroban-%234A90E2.svg?style=for-the-badge&logo=stellar&logoColor=white)
 
 ### Reach me via:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lewechi-godsfavour-08b5211ab/)
