@@ -32,7 +32,7 @@ Here are some ideas to get you started:
 
 
 ### Currently learning
-![Python](https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![Golang](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
 ![Soroban](https://img.shields.io/badge/Soroban-%234A90E2.svg?style=for-the-badge&logo=stellar&logoColor=white)
 
 ### Reach me via:
